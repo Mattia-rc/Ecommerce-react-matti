@@ -1,0 +1,40 @@
+[
+    {
+      "id": 1,
+      "title": "Stylist apartment in center of the city",
+      "rating": 4.4,
+      "photo": "https://images.unsplash.com/photo-1505873242700-f289a29e1e0f?ixlib=rb-1.2.1&auto=format&fit=crop&w=2255&q=80"
+    },
+    {
+      "id": 2,
+      "title": "Nice apartment in center of Helsinki",
+      "rating": 4.2,
+      "photo": "https://images.unsplash.com/photo-1554995207-c18c203602cb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80"
+    },
+    {
+      "id": 3,
+      "title": "Arty interior in 1900 wooden house",
+      "rating": 4.5,
+      "photo": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80"
+    },
+    {
+      "id": 4,
+      "title": "Villa Aurora guest-house",
+      "rating": 4.75,
+      "photo": "https://images.unsplash.com/photo-1513694203232-719a280e022f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2249&q=80"
+    },
+    {
+      "id": 5,
+      "title": "A cosy family house",
+      "rating": 4.95,
+      "photo": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80"
+    },
+    {
+      "id": 6,
+      "title": "Lovely Studio near Railway Station",
+      "rating": 4.68,
+      "photo": "https://images.unsplash.com/photo-1505693314120-0d443867891c?ixlib=rb-1.2.1&auto=format&fit=crop&w=2591&q=80"
+    }
+  
+  ]
+  
